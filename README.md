@@ -31,7 +31,7 @@ git clone -b master https://github.com/HarrisonWinslow/Financial-Data-Filtering-
 After cloning the repository, navigate to the project directory:
 
 ```
-cd your-repository
+cd Financial-Data-Filtering-App
 ```
 
 ### 3. Install Dependencies
