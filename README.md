@@ -21,10 +21,10 @@ git --version
 
 ## Steps to Create and Run the React Application
 ### 1. Clone the Repository
-If you haven’t already, clone the repository to your local machine using the following command:
+If you haven’t already, clone the repository to your local machine using the following command (make sure to clone the 'master' branch!):
 
 ```
-git clone https://github.com/HarrisonWinslow/Financial-Data-Filtering-App.git
+git clone -b master https://github.com/HarrisonWinslow/Financial-Data-Filtering-App.git
 ```
 
 ### 2. Navigate to the Project Folder
